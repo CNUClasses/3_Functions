@@ -4,7 +4,7 @@
  *  Created on: Aug 20, 2013
  *      Author: lynn
  */
-#include "myfunctions.h"
+#include "myFunctions.h"
 
 	int myfunc1()
 	{
