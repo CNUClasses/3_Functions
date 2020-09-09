@@ -36,7 +36,6 @@ int main() {
 	myFullyDefinedInASingleFileFunction();
 	myForwardDeclarationFunction();
 
-
 	myfunc1();
 	myfunc2();
 	myfunc3();
